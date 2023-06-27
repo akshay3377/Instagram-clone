@@ -1,0 +1,14 @@
+export { default as HomeIcon } from "./home";
+export { default as CommentIcon } from "./comment";
+export { default as loadingIcon } from "./loadingIcon";
+export { default as LogoutIcon } from "./logout";
+export { default as SaveIcon } from "./save";
+export { default as SearchIcon } from "./search";
+export { default as ExploreIcon } from "./explore";
+export { default as MessageIcon } from "./message";
+export { default as NotificationIcon } from "./Notification";
+export { default as ShareIcon } from "./share";
+export { default as InstagramIcon } from "./instagram";
+export { default as ReelIcon } from "./reel";
+export { default as AddIcon } from "./add";
+export { default as MoreIcon } from "./more";
